@@ -1,0 +1,194 @@
+/*
+
+Theme Name : llorix-one Child Theme
+Template: llorix-one-lite
+Description: A Child Theme of llorix-one-lite
+Author: Drew Dimos
+Author URI: drewdimos.com
+Version: 1.0.0
+
+*/
+
+@import url("../llorix-one-lite/style.css");
+
+
+.single-service {
+	background: grey;
+}
+
+.services {
+	background: grey;
+}
+
+.services .dark-text {
+	color: white;
+}
+
+.services .colored-line {
+	background: black;
+}
+
+.services .sub-heading {
+	color: white;
+}
+
+.services a {
+	color: white;
+	font-size: 32pt;
+}
+
+
+.team .section-overlay-layer {
+	background-color: white;
+}
+
+.team .dark-text {
+	color: grey;
+	text-align: left;
+	margin: 0;
+}
+
+.team .sub-heading {
+	color: grey;
+	text-align: left;
+	margin: 0;
+}
+
+.team .colored-line {
+	display: none;
+}
+
+.team-member {
+	border-radius: 0%;
+	overflow: visible;
+}
+
+.member-pic {
+	height: 250px;
+	width: 250px;
+}
+
+.member-pic img {
+	height: 250px;
+	width: 250px;
+}
+
+.team-member-wrap .team-member-box {
+	margin-right: 0px;
+	padding-right: 0;
+	padding-left: 0;
+
+}
+
+.member-details {
+	height: 250px;
+	width: 250px;
+}
+
+.testimonials {
+	background-image: url(images/BackgroundImagetoOverlay.jpg);
+	height: 950px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.testimonials .section-overlay-layer {
+	background-color: rgba(12,12,12,.5);
+}
+
+.testimonials-box .feedback {
+	background: none;
+}
+
+.testimonials .dark-text {
+	color: white;
+}
+
+.testimonials .sub-heading {
+	color: white;
+}
+
+.testimonials .colored-line {
+	background-color: white;
+}
+
+.feedback h5 {
+	padding-top: 40px;
+	font-size: 48px;
+	color: white;
+}
+
+.feedback p {
+	line-height: 42pt;
+	color: white;
+}
+
+.feedback .pic-container-inner {
+	border-radius: 0;
+	box-shadow: none;
+	border: none;
+	background: none;
+	height: 205px;
+	width: 200px;
+	padding-bottom: ;
+
+}
+
+.feedback .pic-container-inner {
+	height: 153px;
+	width: 150px;
+}
+
+.feedback .pic-container {
+	top: 17px;
+}
+
+.footer {
+	background: grey;
+}
+
+.footer a {
+	background-color: grey;
+}
+
+.whole-video-bg {
+
+	position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    height: 780px;
+
+}
+
+.only-logo .navbar {
+	min-height: 370px;
+	visibility: hidden;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

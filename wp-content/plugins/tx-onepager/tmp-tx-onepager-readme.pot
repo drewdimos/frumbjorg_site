@@ -1,0 +1,330 @@
+msgid ""
+msgstr "MIME-Version: 1.0\n"
+
+#. Name.
+msgid "Onepager - One Page Builder"
+msgstr ""
+
+#. Short description.
+msgid "Modern, Powerful &amp; Crazy Fast one page builder. Built with modern tools such ReactJS for next generation theming."
+msgstr ""
+
+#. Screenshot description.
+msgid "Enable Onepage from your page with presets"
+msgstr ""
+
+#. Screenshot description.
+msgid "Onepager Builder"
+msgstr ""
+
+#. Screenshot description.
+msgid "Colorpicker input type"
+msgstr ""
+
+#. Screenshot description.
+msgid "Developer friendly codebase"
+msgstr ""
+
+#. Found in description list item.
+msgid "PHP 5.4+"
+msgstr ""
+
+#. Found in description list item.
+msgid "Everything in front-end"
+msgstr ""
+
+#. Found in description list item.
+msgid "Block Based Architecture"
+msgstr ""
+
+#. Found in description list item.
+msgid "In-built option framework"
+msgstr ""
+
+#. Found in description list item.
+msgid "Drag and Drop"
+msgstr ""
+
+#. Found in description list item.
+msgid "ReactJS based"
+msgstr ""
+
+#. Found in description list item.
+msgid "Pre-built blocks"
+msgstr ""
+
+#. Found in description list item.
+msgid "Various input types"
+msgstr ""
+
+#. Found in description list item.
+msgid "Bootstrap framework."
+msgstr ""
+
+#. Found in description list item.
+msgid "Less for quick customization"
+msgstr ""
+
+#. Found in description list item.
+msgid "Gulp for instant workflow"
+msgstr ""
+
+#. Found in description list item.
+msgid "Highly customized for User Experience"
+msgstr ""
+
+#. Found in description list item, changelog list item.
+msgid "<a href=\"https://github.com/nadimtuhin/onepager-storefront-support\">Storefront theme support plugin</a>"
+msgstr ""
+
+#. Found in description list item.
+msgid "<a href=\"https://github.com/nadimtuhin/onepager-advanced-blocks-pack\">Onepager advanced block pack</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "[youtube https://www.youtube.com/watch?v=pwKcmckBZD4]"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"http://www.getonepager.com\">OnePager</a> is a Modern, Powerful &amp; Easy onepage Builder For WordPress. OnePager allow you to quickly edit everything on the fly. No overwhelming options and everything happens on frontend even your grandma build her website in peace."
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://github.com/themexpert/onepager\">Contribute on Github</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<a href=\"https://gitter.im/themexpert/onepager\">Chat with developer</a>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Requirements</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Features</strong>"
+msgstr ""
+
+#. Found in description paragraph.
+msgid "<strong>Addons</strong>"
+msgstr ""
+
+#. Found in installation paragraph.
+msgid "Installing the plugins is just like installing other WordPress plugins."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "WP conflict resolver bug fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bedrock wordpress environment support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "URL link in content-2, content-3, team-1, portfolio-1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lots of internal security improvements and bugfixes"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sumome plugin support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Roots Sage Theme support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "HTML5 starter Theme support"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Builder loader improvement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Testimonial slider goes very fast"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Blocks image override feature from theme"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Live update delay 150 milliseconds"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Improved plugin developers experience paving the way of community contribution"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Onepager can be loaded standalone from a theme now"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Asks to save sections sometimes when settings is saved [bugfix]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Editor not opening [bugfix]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset manager [bugfix]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Color preset [bugfix]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Unable to log in for some hosts [patch]"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Javascript Bugfix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Composer autoload load fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Lots of documentation added."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Instagram icon for social profiles"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Portfolio slider timeout"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Page Preview UX improvement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Block List UX improvement"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Notification when added a new block"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Header block logo responsive"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Onepager conflict with themes plugins"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Block css override feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Shortcode support in every block"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sections save ux improved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Global settings save ux improved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Assets cache improved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Increased notification Time"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Colorpicker bugfix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Onepager breaking search results page"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Drop-down lists within the builder"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preset is not loading if the name is less than 4 chars"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Register new preset not working when disable preset code is on"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Color presets : color change not saving"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Radio changes not saved"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "setState bug on settings"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Preserve app state after reload feature"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix after editor edit, save icon spins forever"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix last section is not seen if there are lots of sections"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Do not open section editor after section creation"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed default value bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fixed undefined layoutManager bug"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Fix undefined layout manager error"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "PHP error fixed introduced on 1.1"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Sidebar overlay color fix."
+msgstr ""
+
+#. Found in changelog list item.
+msgid "UI enhancements"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Bug Fix"
+msgstr ""
+
+#. Found in changelog list item.
+msgid "Initial release"
+msgstr ""
